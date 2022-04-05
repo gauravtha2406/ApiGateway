@@ -13,8 +13,8 @@ pipeline {
 
     
     environment {
-        ORG_NAME = "Gaurav"
-        APP_NAME = "Gaurav-Api-gateway"
+        ORG_NAME = "team3"
+        APP_NAME = "team3-gateway"
         APP_VERSION = "1.0-SNAPSHOT"
         APP_CONTEXT_ROOT = "/"
         APP_LISTENING_PORT = "8765"
